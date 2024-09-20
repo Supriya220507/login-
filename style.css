@@ -1,0 +1,76 @@
+form {
+    width: 300px;
+}
+.text-center {
+    text-align: center;
+    justify-content: center;
+}
+
+.container1 {
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 500px;
+}
+.label-3 {
+    color: navy;
+}
+body {
+    background-color: whitesmoke;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+.bg {
+    background-color: lightblue;
+}
+.span {
+    color: navy;
+}
+.text1 {
+    color: navy;
+}
+.text {
+    text-align: center;
+    justify-content: center;
+}
+.button1 {
+    background-color: blue;
+  color: white;
+  padding: 5px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+.page-container {
+    height: 250px;
+    width: 250px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+}
+button{
+    color: navy;
+    border: antiquewhite;
+    background-color: antiquewhite;
+}
+.box {
+    color: navy;
+}
+.club-container {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(32, 143, 153);
+    margin-left: 20px;
+    padding: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 20px;
+}
+
